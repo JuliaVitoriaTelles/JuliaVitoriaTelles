@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @JuliaVitoriaTelles
+- I'm 15 years old
+- I like to read, my favorite book is Arsène Lupin
+- I play volleyball
+- I like indie rock music and mpb
+- my favorite singers/bands are Alex g, cavetown, d4vd, TV girl, Laufey, mitski, Mac deMarco, Clairo and Faye Webster
