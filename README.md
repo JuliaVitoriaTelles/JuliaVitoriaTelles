@@ -1,10 +1,3 @@
 - Olá, eu me chamo Julia
 - eu tenho 15 anos
-- um dos meus passatempos é ler, meu livro favorito é Arsène Lupin mas atualmente eu comecei a ler os livros da Clarice Lispector e estou gostando muito.
-- eu jogo vôlei, mas já fiz natação e balé quando era mais nova.
-- 👋 Hi, I’m @JuliaVitoriaTelles
-- I'm 15 years old
-- I like to read, my favorite book is Arsène Lupin
-- I play volleyball
-- I like indie rock music and mpb
-- my favorite singers/bands are Alex g, cavetown, d4vd, TV girl, Laufey, mitski, Mac deMarco, Clairo and Faye Webster
+  
