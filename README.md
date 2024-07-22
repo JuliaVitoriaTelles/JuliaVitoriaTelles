@@ -1,3 +1,4 @@
-- Olá, eu me chamo Julia
-- eu tenho 15 anos
+Júlia
+16 
+Hobbies: Literatura, Música, Volei.
   
